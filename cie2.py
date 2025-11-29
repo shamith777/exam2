@@ -1,5 +1,5 @@
 import sys
-if len(sys.argv) !==5:
+if len(sys.argv) ==5:
     script_name = sys.argv[0]
     name = sys.argv[1]
     reg_no = sys.argv[2]
