@@ -6,7 +6,7 @@ if len(sys.argv) !=5:
     dept = sys.argv[3]
     email = sys.argv[4]
 else:
-    name = Abhi
+    name = name
     reg_no = 277
     dept = BCA
     email = abhi@gmail.com
