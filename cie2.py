@@ -6,12 +6,12 @@ if len(sys.argv) !=5:
     dept = sys.argv[3]
     email = sys.argv[4]
 else:
-    name = "Shamith"
-    reg_no = 272
-    dept = "BCA"
-    email = "shamithramdurg302@gmail.com"
+    Name = "Shamith"
+    Reg_no = 272
+    Dept = "BCA"
+    Email = "shamithramdurg302@gmail.com"
 
-print("Student Name:",name)
-print("Registration Number:",reg_no)
-print("Department:",dept)
-print("Email ID:",email)
+print("Student Name:",Name)
+print("Registration Number:",Reg_no)
+print("Department:",Dept)
+print("Email ID:",Email)
